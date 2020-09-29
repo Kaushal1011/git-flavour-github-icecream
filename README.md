@@ -15,9 +15,10 @@
   - Naming
   - ReadME : Markdown 
     - Uses of Markdown
-      - You can use Markdown with Math in Jupyter Lab to do your Assignments and Exams (Latex Based)!
-      - You can use Markdown to create websites!
-      - You can use Markdown to create Documentation![Self Plugged Repo : Get Me Notes](https://github.com/Kaushal1011/getmenotes)
+      - You can use Markdown with Math in Jupyter Lab to do your Assignments and Exams (Latex Based)!.
+      - You can use Markdown to create websites!.
+      - You can use Markdown to create Documentation!.
+      - [Self Plugged Repo : Get Me Notes](https://github.com/Kaushal1011/getmenotes)
     - Good ReadME : Example Repositories.
   - Always use `.gitignore` file with your repository
   - Always use a license that suits your Repo. (Story Time or Not)

@@ -4,9 +4,11 @@
 ## Git Basics
 
 - [Guide to Git by Github](https://guides.github.com/introduction/git-handbook/)
+- [Git cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
 
 ## Contributing to Other OS Repositories
 
+- [Github Worflow](https://guides.github.com/introduction/flow/) 
 - [Step-by-Step Guide to pull request and complete PR process](https://www.dataschool.io/how-to-contribute-on-github/)
 
 ## Github based content
@@ -19,6 +21,7 @@
       - You can use Markdown to create websites!.
       - You can use Markdown to create Documentation!.
       - [Self Plugged Repo : Get Me Notes](https://github.com/Kaushal1011/getmenotes)
+      - [Online Resource](https://guides.github.com/features/mastering-markdown/)
     - Good ReadME : Example Repositories.
   - Always use `.gitignore` file with your repository
   - Always use a license that suits your Repo. (Story Time or Not)
@@ -27,7 +30,7 @@
   - Branches, Commits, Tree, Merging commits from different branches onto a particular branch. (Using Github and VSCode (GUI based VCS on git) )
   - Looking at Insights!
 - Extra Github features:
-  - Github Pages
+  - Github Pages : [Online Resource](https://guides.github.com/features/pages/)
     - Jekyll
     - Linking it to your own domain
   - Codespaces

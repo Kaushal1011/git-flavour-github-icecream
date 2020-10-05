@@ -33,6 +33,7 @@
   - Github Pages : [Online Resource](https://guides.github.com/features/pages/)
     - Jekyll
     - Linking it to your own domain
+    - Internal Linking. [Linked Markdown](Linked.md)
   - Codespaces
     - Very New!
     - [GMN Codespace](https://kaushal1011-getmenotes-gqwp.github.dev/)

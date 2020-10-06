@@ -5,6 +5,9 @@
 
 - [Guide to Git by Github](https://guides.github.com/introduction/git-handbook/)
 - [Git cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
+- [Git Book](https://git-scm.com/book/en/v2)
+- []
+
 
 ## Contributing to Other OS Repositories
 
@@ -37,3 +40,12 @@
   - Codespaces
     - Very New!
     - [GMN Codespace](https://kaushal1011-getmenotes-gqwp.github.dev/)
+    
+## Other helping Links
+
+- [https://training.github.com/](https://training.github.com/)
+- [https://dev.to/cockroachlabs/an-absolute-beginner-s-checklist-for-hacktoberfest-p2k](https://dev.to/cockroachlabs/an-absolute-beginner-s-checklist-for-hacktoberfest-p2k)
+- [https://opensource.com/article/19/5/how-get-job-doing-open-source](https://opensource.com/article/19/5/how-get-job-doing-open-source)
+- [https://www.digitalocean.com/community/tutorials/hacktoberfest-contributor-s-guide-how-to-find-and-contribute-to-open-source-projects](https://www.digitalocean.com/community/tutorials/hacktoberfest-contributor-s-guide-how-to-find-and-contribute-to-open-source-projects)
+- [https://dev.to/chrissiemhrk/git-commit-message-5e21](https://dev.to/chrissiemhrk/git-commit-message-5e21)
+- [https://desktop.github.com/](https://desktop.github.com/)

@@ -1,13 +1,14 @@
 # Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
-I like to code, make music and design stuff.
+🌱 I like to code, make music and design stuff.
 
-I like to take up newprojects every now and then to explore new set of technologies.
+🔭 I like to take up newprojects every now and then to explore new set of technologies.
 
-I am on [linkedin].
+💬 I am on [linkedin].
 
-I also have [instagram] and [soundcloud] where I share my creative experiences
+👯 I also have [instagram] and [soundcloud] where I share my creative experiences
 
+🤔 I usually work on C++, Python, Javascript, Deep/Machine Learning, Full Stack Apps,but you might find me working on anything bizarre as well 😄 .
 
 ## GitHub Stats
 

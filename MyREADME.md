@@ -8,27 +8,27 @@ I am on [linkedin].
 
 I also have [instagram] and [soundcloud] where I share my creative experiences
 
-<details>
-  <summary>GitHub Stats</summary>
+
+## GitHub Stats
 
 ![GitHub Stats Card]
 
-</details>
 
-<details>
-  <summary>GitHub Trophies</summary>
+
+
+## GitHub Trophies
 
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
 
 ![GitHub Trophies]
 
-</details>
+
 
 ### Now Playing - Spotify 🎧
 
 <!-- Make your own https://www.youtube.com/watch?v=n6d4KHSKqGk&t=555s -->
 
-[<img src="https://spotify-now-playing.jgvo69pm0e89uucme5gjoagk6.vercel.app/api/spotify-playing" alt="Kaushal, Spotify Playing" width="350" />](https://open.spotify.com/user/spences10)
+[<img src="https://spotify-now-playing.jgvo69pm0e89uucme5gjoagk6.vercel.app/api/spotify-playing" alt="Kaushal, Spotify Playing" width="350" />](https://open.spotify.com/user/jgvo69pm0e89uucme5gjoagk6)
 
 <!-- Links -->
 

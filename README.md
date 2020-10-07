@@ -6,7 +6,6 @@
 - [Guide to Git by Github](https://guides.github.com/introduction/git-handbook/)
 - [Git cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
 - [Git Book](https://git-scm.com/book/en/v2)
-- []
 
 
 ## Contributing to Other OS Repositories

@@ -1,6 +1,12 @@
 # git-flavour-github-icecream
 "Git flavoured, Github Icecream" : Tutorial on Basics of Git, Contributing to OS Repositories &amp; Using Github.
 
+## Important Links
+
+- [This Repo](https://github.com/Kaushal1011/git-flavour-github-icecream)
+- [PClub Hacktoberfest Idea](https://github.com/PClub-Ahmedabad-University/Hacktoberfest-Ideas)
+- [Webpage](https://kaushal1011.github.io/git-flavour-github-icecream/)
+
 ## Git Basics
 
 - [Guide to Git by Github](https://guides.github.com/introduction/git-handbook/)
